@@ -1,0 +1,1 @@
+print("Goodbye world... for something different.")
